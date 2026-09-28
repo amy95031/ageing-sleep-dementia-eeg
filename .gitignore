@@ -5,3 +5,4 @@ quests/
 .ipynb_checkpoints/
 __pycache__/
 drafts/
+dashboard.html
