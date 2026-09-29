@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Ageing, sleep and dementia EEG: an open-data MNE-Python pipeline"
+type: software
+authors:
+  - family-names: Liu
+    given-names: Chia-Yu
+    orcid: "https://orcid.org/0000-0002-3017-9916"
+repository-code: "https://github.com/amy95031/ageing-sleep-dementia-eeg"
+license: MIT
+keywords:
+  - EEG
+  - MNE-Python
+  - sleep
+  - dementia
+  - Alzheimer's disease
